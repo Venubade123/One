@@ -7,6 +7,7 @@ class One
 		System.out.println("three");
 
 		System.out.println("two");
+		System.out.println("ten");
 
 	}
 }
